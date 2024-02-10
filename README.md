@@ -1,7 +1,7 @@
 # About me
-Hey I'm Bogo, a smart contract security researcher and a blockchain developer, fully immersed in the web3 field for the last 2 years! 
+Hey I'm Bogo, a smart contract security researcher and a blockchain developer! 
 
-I'm a non-stop participant in audit contests on Code4rena & Sherlock! This repo showcases all achievement from my journey as a Solidity auditor.
+I'm a non-stop participant in audit contests on Code4rena, Sherlock & Cantina! This repo showcases all achievements from my journey as a solo smart contract auditor.
 
 # Professional Experience
 - 4 years of professional experience in software development
