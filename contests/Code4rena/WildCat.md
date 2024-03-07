@@ -1,3 +1,6 @@
+ 
+ ## [MEDIUM]
+
  # Lines of code
  https://github.com/code-423n4/2023-10-wildcat/blob/c5df665f0bc2ca5df6f06938d66494b11e7bdada/src/WildcatMarketController.sol#L468-L488 
  
