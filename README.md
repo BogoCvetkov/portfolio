@@ -25,6 +25,6 @@ You can reach out to me 👇
 | [reNFT](https://code4rena.com/audits/2024-01-renft#top)  | Code4rena  | NFT, Lending              | 3M  | 01.2024            | Awaiting Report |
 | [Salty.IO](https://code4rena.com/audits/2024-01-saltyio#top)  | Code4rena  | AMM, Staking              | 1H 3M  | 01.2024            | Awaiting Report |
 | [Blast](https://cantina.xyz/competitions/c90131b4-5c7c-4ebc-a1f3-8002d219bfe0)  | Cantina  | Optimism, Staking, Cross-Chain              | TBD  | 02.2024            | Awaiting Report |
-| [JalaSwap](https://audits.sherlock.xyz/contests/233)  | Sherlock  | DEX, AMM        | TBD  | 03.2024            | TBD |
+| [JalaSwap](https://audits.sherlock.xyz/contests/233)  | Sherlock  | DEX, AMM        | 1 M  | 03.2024            | [Open](./contests/Sherlock/JalaSwap.md) |
 | [Revert Lend](https://code4rena.com/audits/2024-03-revert-lend#top)  | Code4rena  | Lending/Borrowing, Uniswap        | TBD  | 03.2024            | TBD |
 
