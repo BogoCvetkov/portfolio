@@ -6,7 +6,7 @@ I'm a non-stop participant in audit contests on Code4rena, Sherlock & Cantina! T
 # Professional Experience
 - 4 years of professional experience in software development
 - 2 years working as a web3 developer for one of the leading bulgarian blockchain companies - Limechain 🍋
-- 4 months actively participating in audit contests
+- 6 months actively participating in audit contests
 
 # Want to get your contracts audited ?
 
