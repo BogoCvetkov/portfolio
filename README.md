@@ -3,17 +3,12 @@ Hey I'm Bogo, a smart contract security researcher and a blockchain developer!
 
 I'm a non-stop participant in audit contests on Code4rena, Sherlock & Cantina! This repo showcases all achievements from my journey as a solo smart contract auditor.
 
-# Professional Experience
-- 4 years of professional experience in software development
-- 2 years working as a web3 developer for one of the leading bulgarian blockchain companies - Limechain 🍋
-- 6 months actively participating in audit contests
+# 🏆 Hall Of Fame 🏆 
+- Ranked **1st** 🥇 on [Revert Land contest](https://code4rena.com/audits/2024-03-revert-lend#top)
 
-# Want to get your contracts audited ?
-
-You can reach out to me 👇
-- [Twitter](https://twitter.com/xb0g0)
-- [Telegram](https://t.me/xb0g0)
-- [Discord](https://discordapp.com/users/911893685908684832)
+| Total Vulnerabilities Found  | High  | Medium
+| :------------ | :------------| :------------ |
+|18 |4 | 14 |
 
 # Achievements in Audit Contests
 
@@ -23,10 +18,22 @@ You can reach out to me 👇
 | [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top)  | Code4rena  | Lending, Governance, Upgradeability             | 1H 3M  | 12.2023           | [Open](./contests/Code4rena/ETHEREUM_CREDIT_GUILD.md) |
 | [Ubiquity](https://audits.sherlock.xyz/contests/138)  | Sherlock  | Lending, Governance, Diamond Proxy              |1M  | 01.2024            | [Open](./contests/Sherlock/Ubiquity.md) | ranked **14th** out of **257**
 | [reNFT](https://code4rena.com/audits/2024-01-renft#top)  | Code4rena  | NFT, Lending              | 3M  | 01.2024            | Awaiting Report |
-| [Salty.IO](https://code4rena.com/audits/2024-01-saltyio#top)  | Code4rena  | AMM, Staking              | 1H 3M  | 01.2024            | Awaiting Report |
+| [Salty.IO](https://code4rena.com/audits/2024-01-saltyio#top)  | Code4rena  | AMM, Staking              | 1H 4M  | 01.2024            | Awaiting Report |
 | [Blast](https://cantina.xyz/competitions/c90131b4-5c7c-4ebc-a1f3-8002d219bfe0)  | Cantina  | Optimism, Staking, Cross-Chain              | TBD  | 02.2024            | Awaiting Report |
-| [JalaSwap](https://audits.sherlock.xyz/contests/233)  | Sherlock  | DEX, AMM        | 1 M  | 03.2024            | [Open](./contests/Sherlock/JalaSwap.md) |
-| [Revert Lend](https://code4rena.com/audits/2024-03-revert-lend#top)  | Code4rena  | Lending/Borrowing, Uniswap        | TBD  | 03.2024            | TBD | Ranked 1st 🥇
+| [JalaSwap](https://audits.sherlock.xyz/contests/233)  | Sherlock  | DEX, AMM        | 1 M  | 03.2024            | [Open](./contests/Sherlock/JalaSwap.md) | Shared the **5th** spot
+| [Revert Lend](https://code4rena.com/audits/2024-03-revert-lend#top)  | Code4rena  | Lending/Borrowing, Uniswap        | 2 H 1 M  | 03.2024            | TBD | Ranked **1st** 🥇
 | [Goat](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80)  | Cantina  | Staking, SocialFi        | TBD  | 04.2024            | TBD |
 | [Ondo](https://code4rena.com/audits/2024-03-ondo-finance#top)  | Code4rena  | Upgradeability, Staking        | TBD  | 04.2024            | TBD |
 
+
+# Want to get your contracts audited ?
+
+You can reach out to me 👇
+- [Twitter](https://twitter.com/xb0g0)
+- [Telegram](https://t.me/xb0g0)
+- [Discord](https://discordapp.com/users/911893685908684832)
+
+# Professional Experience
+- 4 years of professional experience in software development
+- 2 years working as a web3 developer for one of the leading bulgarian blockchain companies - Limechain 🍋
+- 6 months actively participating in audit contests
