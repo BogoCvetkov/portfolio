@@ -3,7 +3,6 @@
  # Lines of code
  https://github.com/code-423n4/2023-12-ethereumcreditguild/blob/2376d9af792584e3d15ec9c32578daa33bb56b43/src/loan/SurplusGuildMinter.sol#L228-L231
  
- # Vulnerability details
  ## Impact
  All users that stake after the first loss that has been registered in the protocol will lose all their stakes, because they will always be considered slashed
  
@@ -368,7 +367,6 @@
  # Lines of code
  https://github.com/code-423n4/2023-12-ethereumcreditguild/blob/2376d9af792584e3d15ec9c32578daa33bb56b43/src/tokens/ERC20RebaseDistributor.sol#L338-L386 https://github.com/code-423n4/2023-12-ethereumcreditguild/blob/2376d9af792584e3d15ec9c32578daa33bb56b43/src/tokens/ERC20RebaseDistributor.sol#L339
  
- # Vulnerability details
  ## Vulnerability Details
  The `distribute(...)` function is used to distribute tokens proportionately to all rebasing accounts.
  
