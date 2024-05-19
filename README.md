@@ -48,7 +48,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 
 | |  |
 |:-------------------------:|:-------------------------:|
-|<img width="1604" src="https://github.com/BogoCvetkov/portfolio/blob/main/testimonials/bytes32_.png">  [link](https://x.com/bytes032/status/1778358242550145365) |  <img width="1604"src="https://github.com/BogoCvetkov/portfolio/blob/main/testimonials/sock.png"> [link](https://x.com/sockdrawermoney/status/1791806447376089327)|
+|<img width="1604" src="https://github.com/BogoCvetkov/portfolio/blob/main/testimonials/bytes32_.png">  [link](https://x.com/bytes032/status/1778358242550145365) |  <img width="1604" src="https://github.com/BogoCvetkov/portfolio/blob/main/testimonials/sock.png"> [link](https://x.com/sockdrawermoney/status/1791806447376089327)|
 
 # Professional Experience
 - 4 years of professional experience in software development
