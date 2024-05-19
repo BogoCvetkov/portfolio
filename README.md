@@ -53,7 +53,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
     <a href="https://x.com/sockdrawermoney/status/1791806447376089327">
       <img width="320px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/sock.png" alt="sock testimonial">
     </a>
-    <img width="320px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/image.png" alt="sock testimonial">
+    <img width="320px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/image_.png" alt="sock testimonial">
 </div>
 
 
