@@ -44,6 +44,11 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | [Revert Lend Mitigation Review](https://code4rena.com/audits/2024-04-revert-lend-mitigation-review#top)  | Code4rena  | Lending/Borrowing, Uniswap | 1H(solo) 3M  | 04.2024            | TBD | Ranked **1st** 🥇 / Found **80%** of newly introduced vulnerabilities / Found the only **HIGH**
 | [Renzo](https://code4rena.com/audits/2024-04-renzo#top)  | Code4rena  | Upgradeability, Staking, EigenLayer  | TBD  | 05.2024            | Awaiting Report |
 
+## Community about me
+
+| |  |
+|:-------------------------:|:-------------------------:|
+|<img width="1604" src="https://github.com/BogoCvetkov/portfolio/blob/main/testimonials/bytes32_.png">  [link](https://x.com/bytes032/status/1778358242550145365) |  <img width="1604"src="https://github.com/BogoCvetkov/portfolio/blob/main/testimonials/sock.png"> [link](https://x.com/sockdrawermoney/status/1791806447376089327)|
 
 # Professional Experience
 - 4 years of professional experience in software development
