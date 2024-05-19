@@ -47,21 +47,18 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 ## Community about me
 
 <p align="center">
-<div style="flex: 1 1 300px; margin: 10px; text-align: center;">
+  <div style="display: inline-block; margin: 10px;">
     <a href="https://x.com/bytes032/status/1778358242550145365">
-      <img style="width: 100%; max-width: 250;" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/bytes32_.png" alt="bytes032 testimonial">
+      <img width="300" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/bytes32_.png" alt="bytes032 testimonial">
     </a>
-    <br>
-    <a href="https://x.com/bytes032/status/1778358242550145365">View Tweet</a>
-</div>
- <div style="flex: 1 1 300px; margin: 10px; text-align: center;">
+  </div>
+  <div style="display: inline-block; margin: 10px;">
     <a href="https://x.com/sockdrawermoney/status/1791806447376089327">
-      <img style="width: 100%; max-width: 300;" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/sock.png" alt="sock testimonial">
+      <img width="300" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/sock.png" alt="sock testimonial">
     </a>
-    <br>
-    <a href="https://x.com/sockdrawermoney/status/1791806447376089327">View Tweet</a>
   </div>
 </p>
+
 
 # Professional Experience
 - 4 years of professional experience in software development
