@@ -46,7 +46,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 
 ## Community about me
 
-<div align="center">
+<div align="left">
     <img width="412px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/bytes32_.png" alt="bytes032 testimonial">
     <img width="412px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/sock.png" alt="sock testimonial">
     <img width="412px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/sock.png" alt="sock testimonial">
