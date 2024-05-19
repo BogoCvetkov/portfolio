@@ -51,7 +51,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
       <img width="320px"  src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/bytes32_.png" alt="bytes032 testimonial">
     </a>
     <a href="https://x.com/sockdrawermoney/status/1791806447376089327">
-      <img width="320px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/sock.png" alt="sock testimonial">
+      <img width="320px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/sock_.png" alt="sock testimonial">
     </a>
     <img width="320px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/bytes32_.png" alt="sock testimonial">
 </div>
