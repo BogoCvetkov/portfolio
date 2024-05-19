@@ -46,14 +46,14 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 
 ## Community about me
 
-<div align="center">
+<div align="justify">
     <a href="https://x.com/bytes032/status/1778358242550145365">
-      <img width="250px"  src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/bytes32_.png" alt="bytes032 testimonial">
+      <img width="260px"  src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/bytes32_.png" alt="bytes032 testimonial">
     </a>
     <a href="https://x.com/sockdrawermoney/status/1791806447376089327">
-      <img width="250px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/sock_.png" alt="sock testimonial">
+      <img width="260px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/sock_.png" alt="sock testimonial">
     </a>
-    <img width="250px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/bytes32_.png" alt="sock testimonial">
+    <img width="260px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/bytes32_.png" alt="sock testimonial">
 </div>
 
 
