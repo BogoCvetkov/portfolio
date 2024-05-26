@@ -43,6 +43,9 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | [Ondo](https://code4rena.com/audits/2024-03-ondo-finance#top)  | Code4rena  | Upgradeability, Staking        | QA report  | 04.2024            | [Open](https://github.com/code-423n4/2024-03-ondo-finance-findings/issues/134) |
 | [Revert Lend Mitigation Review](https://code4rena.com/audits/2024-04-revert-lend-mitigation-review#top)  | Code4rena  | Lending/Borrowing, Uniswap | 1H(solo) 3M  | 04.2024            | TBD | Ranked **1st** 🥇 / Found **80%** of newly introduced vulnerabilities / Found the only **HIGH**
 | [Renzo](https://code4rena.com/audits/2024-04-renzo#top)  | Code4rena  | Upgradeability, Staking, EigenLayer  | TBD  | 05.2024            | Awaiting Report |
+| [Alchemix](https://immunefi.com/boost/alchemix-boost/)  | Immunefi  | Upgradeability, Staking, Borrowing  | TBD  | 05.2024            | Awaiting Report |
+| [Sophon](https://audits.sherlock.xyz/contests/376)  | Sherlock  | Upgradeability, Staking  | TBD  | 05.2024            | Awaiting Report |
+
 
 ## Community about me
 
