@@ -20,7 +20,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 
 # 🏆 Hall Of Fame 🏆 
 - Ranked **1st** 🥇 on [Revert Land contest](https://code4rena.com/audits/2024-03-revert-lend#top)
-- Ranked **1st** 🥇 (second 🏆**WIN**🏆 in a **ROW**) on [Revert Land Mitigation Review](./contests/Code4rena/media/1-b0g0.webp)
+- Ranked **1st** 🥇 (second 🏆**WIN**🏆 in a **ROW**) on [Revert Land Mitigation Review](./contests/Code4rena/media/1-b0g0.png)
 - Shared the **5th** spot on [JalaSwap contest](https://audits.sherlock.xyz/contests/233) 
 
 | Total Vulnerabilities Found  | High  | Medium
