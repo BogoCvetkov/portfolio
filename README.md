@@ -7,17 +7,6 @@ Having conducted more than 15 audits and uncovered over 30 vulnerabilities, I co
 
 This repository should serve as a testament to the statements above!
 
-# Book an audit
-
-If you're looking to get your protocol secured and have a reliable partner to guide you in the process, you can reach out at 👇
-- [Twitter](https://twitter.com/xb0g0)
-- [Telegram](https://t.me/xb0g0)
-- [Discord](https://discordapp.com/users/911893685908684832)
-
-👉[What is the security audit process ?](./audit_process.MD) 
-
-💪 In case you're unsure or even lost at what exactly you need for your protocol, this should not prevent you from texting me. I will always try to help to the best of my ability with advices, recommendations, referals etc. (completely free)!
-
 # 🏆 Hall Of Fame 🏆 
 - Ranked **1st** 🥇 on [**Revert Land contest**](https://code4rena.com/audits/2024-03-revert-lend#top)
 - Ranked **1st** 🥇 (second 🏆**WIN**🏆 in a **ROW**) on [**Revert Land Mitigation Review**](./contests/Code4rena/media/1-b0g0.png)
