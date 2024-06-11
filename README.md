@@ -50,6 +50,10 @@ This repository should serve as a testament to the statements above!
     </a>
 </div>
 
+# Contacts
+- [Twitter](https://twitter.com/xb0g0)
+- [Telegram](https://t.me/xb0g0)
+- [Discord](https://discordapp.com/users/911893685908684832)
 
 # Professional Experience
 - 4 years of professional experience in software development
