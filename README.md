@@ -50,7 +50,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | [YoLo games](https://cantina.xyz/competitions/a2c3cc6a-e384-495f-9751-5d7e657bc219)  | Cantina  | GameFi, Staking  | TBD  | 06.2024            | Awaiting Report |
 
 
-## Community about me
+# Community about me
 
 <div align="center">
     <a href="https://x.com/bytes032/status/1778358242550145365">
@@ -61,6 +61,9 @@ If you're looking to get your protocol secured and have a reliable partner to gu
     </a>
 </div>
 
+# Publicity 📢
+- Guest speaker in event organized by the web3 security leader - [HATS finance](https://x.com/HatsFinance/status/1805518812881764589)
+- Authored an article in collaboration with HATS finance -  [How to analyze reports & become a great auditor](https://hatsfinance.medium.com/guest-spotlight-article-how-to-analyze-reports-and-become-a-great-auditor-8429e20df2c2) 
 
 # Professional Experience
 - 4 years of professional experience in software development
