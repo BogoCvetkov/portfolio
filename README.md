@@ -28,7 +28,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 
 | Total Vulnerabilities Found  | High  | Medium
 | :------------ | :------------| :------------ |
-|31 |10 | 21 |
+|33 |10 | 23 |
 
 # Achievements in Audit Contests
 
@@ -39,15 +39,15 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | [Ubiquity](https://audits.sherlock.xyz/contests/138)  | Sherlock  | Lending, Governance, Diamond Proxy              |1M  | 01.2024            | [Open](./contests/Sherlock/Ubiquity.md) | ranked **9th** out of **257**
 | [reNFT](https://code4rena.com/audits/2024-01-renft#top)  | Code4rena  | NFT, Lending              | 3M  | 01.2024            | [Open](./contests/Code4rena/reNFT_.md) |
 | [Salty.IO](https://code4rena.com/audits/2024-01-saltyio#top)  | Code4rena  | AMM, Staking              | 1H 4M  | 01.2024            | [Open](./contests/Code4rena/Salty.md) |
-| [Blast](https://cantina.xyz/competitions/c90131b4-5c7c-4ebc-a1f3-8002d219bfe0)  | Cantina  | Optimism, Staking, Cross-Chain              | 1H 1M(solo)  | 02.2024            | Awaiting Report | Ranked 🎖️**8th** out of **573**🎖️
+| [Blast](https://cantina.xyz/competitions/c90131b4-5c7c-4ebc-a1f3-8002d219bfe0)  | Cantina  | Optimism, Staking, Cross-Chain              | 1H 1M(solo)  | 02.2024            | Private Report | Ranked 🎖️**8th** out of **573**🎖️
 | [JalaSwap](https://audits.sherlock.xyz/contests/233)  | Sherlock  | DEX, AMM        | 1M  | 03.2024            | [Open](./contests/Sherlock/JalaSwap.md) | Shared the 🎖️ **5th** spot
 | [Revert Lend](https://code4rena.com/audits/2024-03-revert-lend#top)  | Code4rena  | Lending/Borrowing, Uniswap        | 2H 1M  | 03.2024            | [Open](./contests/Code4rena/Revert.md) | Ranked **1st** 🥇
-| [Goat](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80)  | Cantina  | Staking, SocialFi        | 2H 2M  | 04.2024            | Awaiting Report | Ranked **Top 10** ⭐️
+| [Goat](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80)  | Cantina  | Staking, SocialFi        | 2H 2M  | 04.2024            | Private Report | Ranked **Top 10** ⭐️
 | [Ondo](https://code4rena.com/audits/2024-03-ondo-finance#top)  | Code4rena  | Upgradeability, Staking        | QA report  | 04.2024            | [Open](https://github.com/code-423n4/2024-03-ondo-finance-findings/issues/134) |
 | [Revert Lend Mitigation Review](https://code4rena.com/audits/2024-04-revert-lend-mitigation-review#top)  | Code4rena  | Lending/Borrowing, Uniswap | 1H(solo) 3M  | 04.2024            | [Open](./contests/Code4rena/Revert_Mitigation.md) | Ranked **1st** 🥇 / Found **80%** of newly introduced vulnerabilities / Found the only **HIGH**
-| [Renzo](https://code4rena.com/audits/2024-04-renzo#top)  | Code4rena  | Upgradeability, Staking, EigenLayer  | 1H 1M  | 05.2024            | Awaiting Report |
-| [Alchemix](https://immunefi.com/boost/alchemix-boost/)  | Immunefi  | Upgradeability, Staking, Borrowing  | 1 Critical  | 05.2024            | Awaiting Report | Found a Critical 💥
-| [YoLo games](https://cantina.xyz/competitions/a2c3cc6a-e384-495f-9751-5d7e657bc219)  | Cantina  | GameFi, Staking  | TBD  | 06.2024            | Awaiting Report |
+| [Renzo](https://code4rena.com/audits/2024-04-renzo#top)  | Code4rena  | Upgradeability, Staking, EigenLayer  | 1H 1M  | 05.2024            | [Open](./contests/Code4rena/Renzo.md) |
+| [Alchemix](https://immunefi.com/boost/alchemix-boost/)  | Immunefi  | Upgradeability, Staking, Borrowing  | 1 Critical  | 05.2024            | [Open](./contests/Immunefi/Alchemix.MD) | Found a **Critical** 💥
+| [YoLo games](https://cantina.xyz/competitions/a2c3cc6a-e384-495f-9751-5d7e657bc219)  | Cantina  | GameFi, Staking  | 2M  | 06.2024            | Private Report | Ranked **9th** ⭐️
 
 
 # Community about me
@@ -59,11 +59,15 @@ If you're looking to get your protocol secured and have a reliable partner to gu
     <a href="https://x.com/sockdrawermoney/status/1791806447376089327">
       <img width="270px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/sock_.png" alt="sock testimonial">
     </a>
+    <a href="https://x.com/0x_xindaquil98/status/1810243803179106628">
+      <img width="270px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/hats_.png" alt="hats testimonial">
+    </a>
 </div>
 
 # Publicity 📢
 - Guest speaker in event organized by the web3 security leader - [HATS finance](https://x.com/HatsFinance/status/1805518812881764589)
 - Authored an article in collaboration with HATS finance -  [How to analyze reports & become a great auditor](https://hatsfinance.medium.com/guest-spotlight-article-how-to-analyze-reports-and-become-a-great-auditor-8429e20df2c2) 
+- Got featured on **BlockThreat Weekly Newsletter** - [Newsletter Feature](https://newsletter.blockthreat.io/p/blockthreat-week-26-2024?open=false#%C2%A7research)
 
 # Professional Experience
 - 4 years of professional experience in software development
