@@ -3,7 +3,7 @@ I'm Bogo!
 
 A smart contract auditor with proven track record of consistently uncovering vulnerabilities in wide spectrum of DeFi protocols and performing exceptionally at multiple audit contests.
 
-Having conducted more than 15 audits and uncovered over 30 vulnerabilities, I continuously push the boundaries of my knowledge, striving to provide a superior level of expertise and maximize the value for each protocol I dedicate myself to!
+Having conducted more than 15 audits and uncovered numerous vulnerabilities, I continuously push the boundaries of my knowledge, striving to provide a superior level of expertise and maximize the value for each protocol I dedicate myself to!
 
 This repository should serve as a testament to the statements above!
 
