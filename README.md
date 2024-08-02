@@ -70,5 +70,6 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 - Got featured on **BlockThreat Weekly Newsletter** - [Newsletter Feature](https://newsletter.blockthreat.io/p/blockthreat-week-26-2024?open=false#%C2%A7research)
 
 # Professional Experience
-- 4 years of professional experience in software development
-- 2 years working as a lead dev in a major bulgarian blockchain company - Limechain 🍋
+- Security Researcher at the renowned security firm [Paladin](https://paladinsec.co)
+- Web3 Security Adviser to Sillicon Valley tech-company - [Octane Security](https://www.octane.security)
+- Previously worked for 2.5 years as a lead developer in Bulgaria's second largest blockchain company - Limechain.
