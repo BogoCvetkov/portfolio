@@ -48,7 +48,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 
 ### August
 
-- [HyperCycle](20240908_Paladin_HyperCycleShareManagerv2_Final_Report.pdf)
+- [HyperCycle](./reports/20240908_Paladin_HyperCycleShareManagerv2_Final_Report.pdf)
 - BloodLoop(Master Nodes)
 
 ### September
