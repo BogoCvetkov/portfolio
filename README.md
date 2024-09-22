@@ -35,25 +35,16 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 
 # Private Work
 
-### June
-
-- BloodLoop(Crafting Nodes)
-
-### July
-
-- ApeSwap
-- BetSwirl (as 💪Lead Auditor💪)
-- StarsArena
-- Ai-Layer
-
-### August
-
-- [HyperCycle](./reports/20240908_Paladin_HyperCycleShareManagerv2_Final_Report.pdf)
-- BloodLoop(Master Nodes)
-
-### September
-
-- Volt
+| Protocol                                                                           | Type of protocol     | Date           | Info              |
+| ---------------------------------------------------------------------------------- | -------------------- | -------------- | ----------------- |
+| BloodLoop(Crafting Nodes)                                                          | Staking              | June 2024      |                   |
+| ApeSwap                                                                            | DEX                  | July 2024      |                   |
+| BetSwirl                                                                           | GameFi               | July 2024      | 💪Lead Auditor 💪 |
+| StarsArena                                                                         | SocialFi             | July 2024      |                   |
+| Ai-Layer                                                                           | Staking              | July 2024      |                   |
+| [HyperCycle](./reports/20240908_Paladin_HyperCycleShareManagerv2_Final_Report.pdf) | Staking / Governance | August 2024    |                   |
+| BloodLoop(Master Nodes)                                                            | Staking              | August 2024    |                   |
+| Volt                                                                               | Staking              | September 2024 |                   |
 
 # Achievements in Audit Contests
 
