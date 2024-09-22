@@ -42,7 +42,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 ### July
 
 - ApeSwap
-- BetSwirl (as Lead Auditor)
+- BetSwirl (as 💪Lead Auditor💪)
 - StarsArena
 - Ai-Layer
 
