@@ -18,8 +18,6 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 
 👉[What is the security audit process ?](./audit_process.MD)
 
-💪 In case you're unsure or even lost at what exactly you need for your protocol, this should not prevent you from texting me. I will always try to help to the best of my ability with advices, recommendations, referals etc. (completely free)!
-
 # 🏆 Hall Of Fame 🏆
 
 - Ranked **1st** 🥇 on [**Revert Land contest**](https://code4rena.com/audits/2024-03-revert-lend#top)
