@@ -42,7 +42,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | Ai-Layer                                                                           | Staking              | July 2024      |                   |
 | [HyperCycle](./reports/20240908_Paladin_HyperCycleShareManagerv2_Final_Report.pdf) | Staking / Governance | August 2024    |                   |
 | BloodLoop(Master Nodes)                                                            | Staking              | August 2024    |                   |
-| Volt                                                                               | Staking              | September 2024 |                   |
+| [Volt](./reports/Volt-Audit-Report.pdf)                                            | Staking              | September 2024 |                   |
 
 # Achievements in Audit Contests
 
