@@ -82,7 +82,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
       <img width="270px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/hats_.png" alt="hats testimonial">
     </a>
     <a href="https://ramen.finance/">
-      <img width="270px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/Ramen_.png" alt="hats testimonial">
+      <img width="370px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/ramen.png" alt="hats testimonial">
     </a>
 </div>
 
