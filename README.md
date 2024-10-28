@@ -81,6 +81,9 @@ If you're looking to get your protocol secured and have a reliable partner to gu
     <a href="https://x.com/0x_xindaquil98/status/1810243803179106628">
       <img width="270px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/hats_.png" alt="hats testimonial">
     </a>
+    <a href="https://ramen.finance/">
+      <img width="270px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/Ramen.png" alt="hats testimonial">
+    </a>
 </div>
 
 # Publicity 📢
