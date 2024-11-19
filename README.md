@@ -39,7 +39,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | ---------------------------------------------------------------------------------- | -------------------- | -------------- | ----------------- |
 | BloodLoop(Crafting Nodes)                                                          | Staking              | June 2024      |                   |
 | ApeSwap                                                                            | DEX                  | July 2024      |                   |
-| BetSwirl V1                                                                        | GameFi               | July 2024      | 💪Lead Auditor 💪 |
+| [BetSwirl V1](./reports/20241029_Paladin_Betswirl_Final_Report.pdf)                | GameFi               | July 2024      | 💪Lead Auditor 💪 |
 | StarsArena                                                                         | SocialFi             | July 2024      |                   |
 | Ai-Layer                                                                           | Staking              | July 2024      |                   |
 | [HyperCycle](./reports/20240908_Paladin_HyperCycleShareManagerv2_Final_Report.pdf) | Staking / Governance | August 2024    |                   |
