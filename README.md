@@ -49,6 +49,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | DragonSwap                                                                         | Staking              | October 2024   |                   |
 | [BetSwirl 2](./reports/20241029_Paladin_BetswirlPvPWheel_Final_Report.pdf)         | Staking              | October 2024   | 💪Lead Auditor 💪 |
 | Trader Joe                                                                         | Staking              | October 2024   |                   |
+| LayerZero                                                                          | Staking              | October 2024   |                   |
 
 # Achievements in Audit Contests
 
