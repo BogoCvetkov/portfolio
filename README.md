@@ -4,7 +4,7 @@ I'm Bogo!
 
 A smart contract auditor with proven track record of consistently uncovering vulnerabilities in wide spectrum of DeFi protocols and performing exceptionally at multiple audit contests.
 
-Having conducted more than 15 audits and uncovered numerous vulnerabilities, I continuously push the boundaries of my knowledge, striving to provide a superior level of expertise and maximize the value for each protocol I dedicate myself to!
+Having conducted more than 30 audits and uncovered numerous vulnerabilities, I continuously push the boundaries of my knowledge, striving to provide a superior level of expertise and maximize the value for each protocol I dedicate myself to!
 
 This repository should serve as a testament to the statements above!
 
@@ -47,9 +47,11 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | [Volt](./reports/Volt-Audit-Report.pdf)                                            | Staking              | September 2024 |                   |
 | [Ramen Finance](./reports/Ramen-Finance-Audit-Report.pdf)                          | Staking              | September 2024 |                   |
 | DragonSwap                                                                         | Staking              | October 2024   |                   |
-| [BetSwirl 2](./reports/20241029_Paladin_BetswirlPvPWheel_Final_Report.pdf)         | Staking              | October 2024   | 💪Lead Auditor 💪 |
-| Trader Joe                                                                         | Staking              | October 2024   |                   |
-| LayerZero                                                                          | Staking              | October 2024   |                   |
+| [BetSwirl 2](./reports/20241029_Paladin_BetswirlPvPWheel_Final_Report.pdf)         | Staking / GameFi     | October 2024   | 💪Lead Auditor 💪 |
+| Trader Joe                                                                         | DEX / AMM            | October 2024   |                   |
+| LayerZero                                                                          | Cross-chain          | October 2024   |                   |
+| LayerZero                                                                          | Cross-chain          | November 2024  |                   |
+| DynaVaults                                                                         | Staking              | November 2024  |                   |
 
 # Achievements in Audit Contests
 
