@@ -29,9 +29,9 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 - Lended a **Critical**💥 on my first **Immunefi** boost
 - Shared the **5th** spot on [JalaSwap contest](https://audits.sherlock.xyz/contests/233)
 
-| Total Vulnerabilities Found | High | Medium |
+<!-- | Total Vulnerabilities Found | High | Medium |
 | :-------------------------- | :--- | :----- |
-| 33                          | 10   | 23     |
+| 33                          | 10   | 23     | -->
 
 # Private Work
 
