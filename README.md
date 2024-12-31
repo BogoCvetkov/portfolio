@@ -52,6 +52,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | LayerZero                                                                          | Cross-chain          | October 2024   |                   |
 | LayerZero                                                                          | Cross-chain          | November 2024  |                   |
 | DynaVaults                                                                         | Staking              | November 2024  |                   |
+| Ramen Finance 2                                                                    | Staking              | December 2024  | Report Soon       |
 
 # Achievements in Audit Contests
 
