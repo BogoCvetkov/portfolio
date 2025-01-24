@@ -54,6 +54,8 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | DynaVaults                                                                         | Staking              | November 2024  |                   |
 | Ramen Finance 2                                                                    | Staking              | December 2024  | Report Soon       |
 | Beramonium                                                                         | Staking              | January 2025   | Report Soon       |
+| [USDT0](./reports/20250110_Paladin_Everdawn_Final_Report.pdf)                      | Cross-Chain          | January 2025   |                   |
+| LayerZero                                                                          | Cross-Chain          | January 2025   | 💪Lead Auditor 💪 |
 
 # Achievements in Audit Contests
 
