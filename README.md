@@ -52,7 +52,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | LayerZero                                                                          | Cross-chain          | October 2024   |                   |
 | LayerZero                                                                          | Cross-chain          | November 2024  |                   |
 | DynaVaults                                                                         | Staking              | November 2024  |                   |
-| Ramen Finance 2                                                                    | Staking              | December 2024  | Report Soon       |
+| [Ramen Finance 2](./reports/[Summary]-Ramen-Finance-Audit-Report-2.pdf)            | Staking              | December 2024  |                   |
 | Beramonium                                                                         | Staking              | January 2025   | Report Soon       |
 | [USDT0](./reports/20250110_Paladin_Everdawn_Final_Report.pdf)                      | Cross-Chain          | January 2025   |                   |
 | LayerZero                                                                          | Cross-Chain          | January 2025   | 💪Lead Auditor 💪 |
@@ -75,6 +75,8 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | [Renzo](https://code4rena.com/audits/2024-04-renzo#top)                                                 | Code4rena | Upgradeability, Staking, EigenLayer | 1H 1M       | 05.2024 | [Open](./contests/Code4rena/Renzo.md)                                          |
 | [Alchemix](https://immunefi.com/boost/alchemix-boost/)                                                  | Immunefi  | Upgradeability, Staking, Borrowing  | 1 Critical  | 05.2024 | [Open](./contests/Immunefi/Alchemix.MD)                                        | Found a **Critical** 💥                                                                         |
 | [YoLo games](https://cantina.xyz/competitions/a2c3cc6a-e384-495f-9751-5d7e657bc219)                     | Cantina   | GameFi, Staking                     | 2M          | 06.2024 | Private Report                                                                 | Ranked **9th** ⭐️                                                                              |
+| [Chakra](https://code4rena.com/audits/2024-08-chakra)                                                   | Code4rena | Staking, Cross-Chain                | 6H 1M       | 10.2024 | TBD                                                                            | Cairo + Solidity                                                                                |
+| [Story Protocol](https://cantina.xyz/competitions/0561defa-eeb2-4a74-8884-5d7a873afa58)                 | Cantina   | Staking, Infra                      | TBD         | 12.2024 | TBD                                                                            |                                                                                                 |
 
 # Community about me
 
