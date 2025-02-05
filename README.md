@@ -4,7 +4,7 @@ I'm Bogo!
 
 A smart contract auditor with proven track record of consistently uncovering vulnerabilities in wide spectrum of DeFi protocols and performing exceptionally at multiple audit contests.
 
-Having conducted more than 30 audits and uncovered numerous vulnerabilities, I continuously push the boundaries of my knowledge, striving to provide a superior level of expertise and maximize the value for each protocol I dedicate myself to!
+Having conducted more than 50 audits and uncovered numerous vulnerabilities, I continuously push the boundaries of my knowledge, striving to provide a superior level of expertise and maximize the value for each protocol I dedicate myself to!
 
 This repository should serve as a testament to the statements above!
 
@@ -50,7 +50,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | [BetSwirl 2](./reports/20241029_Paladin_BetswirlPvPWheel_Final_Report.pdf)         | Staking / GameFi     | October 2024   | 💪Lead Auditor 💪 |
 | Trader Joe                                                                         | DEX / AMM            | October 2024   |                   |
 | LayerZero                                                                          | Cross-chain          | October 2024   |                   |
-| LayerZero                                                                          | Cross-chain          | November 2024  |                   |
+| LayerZero                                                                          | Cross-chain          | November 2024  | Move audit        |
 | DynaVaults                                                                         | Staking              | November 2024  |                   |
 | [Ramen Finance 2](./reports/[Summary]-Ramen-Finance-Audit-Report-2.pdf)            | Staking              | December 2024  |                   |
 | Beramonium                                                                         | Staking              | January 2025   | Report Soon       |
@@ -100,6 +100,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 - Guest speaker in event organized by the web3 security leader - [HATS finance](https://x.com/HatsFinance/status/1805518812881764589)
 - Authored an article in collaboration with HATS finance - [How to analyze reports & become a great auditor](https://hatsfinance.medium.com/guest-spotlight-article-how-to-analyze-reports-and-become-a-great-auditor-8429e20df2c2)
 - Got featured on **BlockThreat Weekly Newsletter** - [Newsletter Feature](https://newsletter.blockthreat.io/p/blockthreat-week-26-2024?open=false#%C2%A7research)
+- Creator of [The Art Of Auditing](https://x.com/ArtOfAuditing)
 
 # Professional Experience
 
