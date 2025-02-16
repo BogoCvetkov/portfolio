@@ -96,7 +96,10 @@ If you're looking to get your protocol secured and have a reliable partner to gu
       <img width="270px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/hats_.png" alt="hats testimonial">
     </a>
     <a href="https://ramen.finance/">
-      <img width="370px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/ramen.png" alt="hats testimonial">
+      <img width="370px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/ramen.png" alt="ramen testimonial">
+    </a>
+    <a href="">
+      <img width="370px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/Discord_client.png" alt="descord testimonial">
     </a>
 </div>
 
@@ -109,6 +112,6 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 
 # Professional Experience
 
-- Security Researcher at the renowned security firm [Paladin](https://paladinsec.co)
+- Leading audits at [Paladin](https://paladinsec.co)
 - Web3 Security Adviser to Sillicon Valley tech-company - [Octane Security](https://www.octane.security)
-- Previously worked for 2.5 years as a lead developer in Bulgaria's second largest blockchain company - Limechain.
+- Previously worked for 2.5 years as a lead developer & team lead in Bulgaria's second largest blockchain company - Limechain.
