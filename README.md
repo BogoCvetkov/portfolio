@@ -27,7 +27,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 - Ranked **8th** 🏅🏅🏅 in [**History's BIGGEST Competition (Blast)**](./contests/Code4rena/media/Cantina-Blast-Discord.png) - **573 participants** / **1500+ submissions**
 - Ranked **14th**🏆 on [**Cantina All Time Leaderboard**](./contests/Code4rena/media/Cantina_Leaderboard.png)
 - Lended a **Critical**💥 on my first **Immunefi** boost
-- Lended a **Medium** on my first **Immunefi** bounty
+- Lended a **Medium** [on my first **Immunefi** bounty](https://immunefi.com/profile/b0g0/)
 - Shared the **5th** spot on [JalaSwap contest](https://audits.sherlock.xyz/contests/233)
 
 <!-- | Total Vulnerabilities Found | High | Medium |
@@ -100,6 +100,12 @@ If you're looking to get your protocol secured and have a reliable partner to gu
     </a>
     <a href="">
       <img width="370px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/Discord_client.png" alt="descord testimonial">
+    </a>
+    <a href="">
+      <img width="370px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/Octane.png" alt="octane testimonial">
+    </a>
+    <a href="">
+      <img width="370px" src="https://raw.githubusercontent.com/BogoCvetkov/portfolio/main/testimonials/Bera.png" alt="octane testimonial">
     </a>
 </div>
 
