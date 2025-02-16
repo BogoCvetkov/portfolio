@@ -27,6 +27,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 - Ranked **8th** 🏅🏅🏅 in [**History's BIGGEST Competition (Blast)**](./contests/Code4rena/media/Cantina-Blast-Discord.png) - **573 participants** / **1500+ submissions**
 - Ranked **14th**🏆 on [**Cantina All Time Leaderboard**](./contests/Code4rena/media/Cantina_Leaderboard.png)
 - Lended a **Critical**💥 on my first **Immunefi** boost
+- Lended a **Medium** on my first **Immunefi** bounty
 - Shared the **5th** spot on [JalaSwap contest](https://audits.sherlock.xyz/contests/233)
 
 <!-- | Total Vulnerabilities Found | High | Medium |
@@ -53,9 +54,12 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | LayerZero                                                                          | Cross-chain          | November 2024  | Move audit        |
 | DynaVaults                                                                         | Staking              | November 2024  |                   |
 | [Ramen Finance 2](./reports/[Summary]-Ramen-Finance-Audit-Report-2.pdf)            | Staking              | December 2024  |                   |
-| Beramonium                                                                         | Staking              | January 2025   | Report Soon       |
+| [Beramonium](./reports/Beramonium-Audit-Report-Final.pdf)                          | Staking              | January 2025   | Report Soon       |
 | [USDT0](./reports/20250110_Paladin_Everdawn_Final_Report.pdf)                      | Cross-Chain          | January 2025   |                   |
 | LayerZero                                                                          | Cross-Chain          | January 2025   | 💪Lead Auditor 💪 |
+| BetSwirl 2                                                                         | Staking              | February 2025  | 💪Lead Auditor 💪 |
+| Kernel Dao                                                                         | Staking              | February 2025  |                   |
+| [Beramonium 2](./reports/Beramonium-Audit-Report-Gemhunters.pdf)                   | Staking              | February 2025  |                   |
 
 # Achievements in Audit Contests
 
@@ -77,6 +81,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | [YoLo games](https://cantina.xyz/competitions/a2c3cc6a-e384-495f-9751-5d7e657bc219)                     | Cantina   | GameFi, Staking                     | 2M          | 06.2024 | Private Report                                                                 | Ranked **9th** ⭐️                                                                              |
 | [Chakra](https://code4rena.com/audits/2024-08-chakra)                                                   | Code4rena | Staking, Cross-Chain                | 6H 1M       | 10.2024 | TBD                                                                            | Cairo + Solidity                                                                                |
 | [Story Protocol](https://cantina.xyz/competitions/0561defa-eeb2-4a74-8884-5d7a873afa58)                 | Cantina   | Staking, Infra                      | TBD         | 12.2024 | TBD                                                                            |                                                                                                 |
+| [Farcaster Attestations](https://cantina.xyz/competitions/0561defa-eeb2-4a74-8884-5d7a873afa58)         | Cantina   | Staking, Cross-Chain                | TBD         | 02.2025 | TBD                                                                            |                                                                                                 |
 
 # Community about me
 
