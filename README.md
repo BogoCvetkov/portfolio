@@ -115,6 +115,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 - Authored an article in collaboration with HATS finance - [How to analyze reports & become a great auditor](https://hatsfinance.medium.com/guest-spotlight-article-how-to-analyze-reports-and-become-a-great-auditor-8429e20df2c2)
 - Got featured on **BlockThreat Weekly Newsletter** - [Newsletter Feature](https://newsletter.blockthreat.io/p/blockthreat-week-26-2024?open=false#%C2%A7research)
 - Creator of [The Art Of Auditing](https://x.com/ArtOfAuditing)
+- [My Blog](https://b0g0.xyz/blog/) with high impact articles
 
 # Professional Experience
 
