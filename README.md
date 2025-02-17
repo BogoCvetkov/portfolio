@@ -57,7 +57,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | [Beramonium](./reports/Beramonium-Audit-Report-Final.pdf)                          | Staking              | January 2025   | Report Soon       |
 | [USDT0](./reports/20250110_Paladin_Everdawn_Final_Report.pdf)                      | Cross-Chain          | January 2025   |                   |
 | LayerZero                                                                          | Cross-Chain          | January 2025   | 💪Lead Auditor 💪 |
-| BetSwirl 2                                                                         | Staking              | February 2025  | 💪Lead Auditor 💪 |
+| HyperCycle 2                                                                       | Staking              | February 2025  | 💪Lead Auditor 💪 |
 | Kernel Dao                                                                         | Staking              | February 2025  |                   |
 | [Beramonium 2](./reports/Beramonium-Audit-Report-Gemhunters.pdf)                   | Staking              | February 2025  |                   |
 
